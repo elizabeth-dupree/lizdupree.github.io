@@ -8,7 +8,8 @@
 -SQL
 
 ## Skills: 
-
+Data Analysis: RStudio, Excel, MySQL
+Visualization: Tableau, Power BI, ArcGisOnline
 
 ## Contact Information: 
 Email: evdupree@gmail.com
