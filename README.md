@@ -8,7 +8,7 @@ Hi I'm Liz! I am a senior studying business analytics with a minor in public hea
 -SQL
 
 ## Skills: 
-Data Analysis: RStudio, Excel, MySQL
+Data Analysis: RStudio, Excel (VBA), MySQL
 Visualization: Tableau, Power BI, ArcGisOnline
 
 ## Contact Information: 
