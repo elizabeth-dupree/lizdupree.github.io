@@ -5,7 +5,7 @@ Hi I'm Liz! I recently graduated from William & Mary with a Bachelor's degree in
 
 ## Projects:
 -**Popularity of Online News:** RStudio
--SQL
+-**Automated Sandwich Ordering Kiosk:** Excel VBA
 
 ## Skills: 
 Data Analysis: RStudio, Excel (VBA), MySQL
